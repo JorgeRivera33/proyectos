@@ -1,3 +1,6 @@
+body{
+	background: green;
+}
 #contenedor{
 	border: 1px solid gray;
 	padding: 5%;
@@ -8,4 +11,7 @@ img{
 	width: 100%;
 	border: 1px solid gray;
 	padding: 5px;
+}
+p{
+	color: white;
 }
