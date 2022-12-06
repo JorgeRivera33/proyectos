@@ -1,6 +1,9 @@
 body{
 	background: green;
 }
+h1{
+	color: white;
+}
 #contenedor{
 	border: 1px solid gray;
 	padding: 5%;
@@ -11,7 +14,10 @@ img{
 	width: 100%;
 	border: 1px solid gray;
 	padding: 5px;
+	background-color: white;
 }
 p{
 	color: white;
+	font-size: 20px;
+	font-style: italic;
 }
